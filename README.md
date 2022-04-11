@@ -4,8 +4,8 @@
  <h4> Sou Kivia, e abaixo um breve resumo sobre mim: 
   
 - 🎓 Formada em Ciência da Computação
-- 🌱 Estudo desenvolvimento FullStack: HTML, CSS, JS, PHP, C#, Java
-- 📚 Iniciando os estudos em Ciência de Dados: Python
+- 📚 Estudo desenvolvimento FullStack: HTML, CSS, JS, PHP, C#, Java
+- 💻 Iniciando os estudos em Ciência de Dados: Python
 - 📫 Contato pelo email: kiviamariana1@gmail.com </h4>
 
   <div align="center">
